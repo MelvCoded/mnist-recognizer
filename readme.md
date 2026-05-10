@@ -1,6 +1,6 @@
 # Handwritten Digit Recognizer
 
-A deep learning application that recognizes handwritten digits (0–9) using a
+An application that recognizes handwritten digits (0–9) using a
 Convolutional Neural Network (CNN) trained on the MNIST dataset, with a
 web-based GUI built using Streamlit.
 
