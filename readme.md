@@ -55,7 +55,7 @@ mnist-digit-recognizer/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mnist-digit-recognizer.git
+git clone https://github.com/MelvCoded/mnist-recognizer.git
 cd mnist-digit-recognizer
 ```
 
@@ -153,4 +153,4 @@ Dense (10, Softmax) → Output: digit 0–9
 
 - **Name:** Melvin Gurung  
 - **Course:** Machine Learning  
-- **GitHub:** https://github.com/YOUR_USERNAME/mnist-digit-recognizer
+- **GitHub:** https://github.com/MelvCoded/mnist-recognizer.git
